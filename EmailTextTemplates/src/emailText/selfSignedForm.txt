@@ -1,0 +1,6 @@
+Hello,
+
+We are unable to process the key that you requested for yourself. We need another authorized signer to sign the form for your key.
+Please have another signer fill out the form and refax the request.
+
+Thank you,

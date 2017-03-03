@@ -1,0 +1,7 @@
+Hello,
+
+We received your key request. Because this key is not a door key it needs to be submitted via work order. This is located on the internal home page under 'Support Services LINK' and the form is the third option down 'Facilities Svcs - Maintenance / Biomed'. This form will go directly to the locksmith so they can process the key for you. Below is a direct link to the request.
+
+https://uhintwebspr1.mcit.med.umich.edu/hos/link/RequestsMaint.cfm?Dept=2
+
+Thank you,
